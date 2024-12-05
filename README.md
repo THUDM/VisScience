@@ -3,7 +3,9 @@ Official Pytorch Implementation for VisScience
 
 
 
-![](resources/perf.png)
+![](resources/math.png)
+![](resources/physics.png)
+![](resources/chemistry.png)
 
 we meticulously construct a comprehensive benchmark, named VisScience, which is utilized to assess the multi-modal scientific reasoning across the three disciplines of mathematics, physics, and chemistry. This benchmark comprises 3,000 questions drawn from K12 education — spanning elementary school through high school — equally distributed across three disciplines, with 1,000 questions per discipline. The questions within VisScience span 21 distinct subjects and are categorized into five difficulty levels, offering a broad spectrum of topics within each discipline.
 
