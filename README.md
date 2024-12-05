@@ -14,11 +14,16 @@ If you want to find the detailed introduction, Read our paper: [VisScience: An E
 
 
 ## Dataset Summary
-### Mathematics
 
+The VisScience benchmark is a carefully curated dataset designed to evaluate the performance of multi-modal large language models (MLLMs) in scientific reasoning across multiple modalities. It specifically focuses on bilingual tasks involving both English and Chinese. The benchmark combines textual and visual inputs, covering three scientific disciplines: mathematics, physics, and chemistry. Each discipline contains 1,000 questions, carefully selected from various chapters to ensure broad and comprehensive coverage of topics and concepts.
+
+![](resources/statistics.png)
+
+### Mathematics
+In mathematics, the dataset can be divided into six key areas: plane geometry, solid geometry, functions and equations, algebraic operations, probability and statistics, and combinatorial mathematics. 
 
 ### Physics
-
+The physical component of the VisScience benchmark encompasses eight subjects, including *mechanics*, thermodynamics, comprehensive experiments and methods, mechanical motion, vibration and waves, optics, electromagnetism, and modern physics. 
 
 ### Chemistry
 
