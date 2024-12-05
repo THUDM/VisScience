@@ -31,6 +31,7 @@ The chemistry section of the VisScience benchmark includes seven topics such as 
 
 
 ## Leaderboard
+![](resources/leaderboard.png)
 
 
 ## Citation
